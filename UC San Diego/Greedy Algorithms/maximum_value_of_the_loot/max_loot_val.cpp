@@ -58,7 +58,7 @@ int main()
         std::cin >> values[i] >> weights[i];
     }
     double optimal_value = get_optimal_value(capacity, weights, values);
-
+    std::cout.precision(10); // to add precision and make it fractional
     std::cout << optimal_value << std::endl;
     return 0;
 }
