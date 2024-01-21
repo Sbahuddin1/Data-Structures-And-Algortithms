@@ -3,8 +3,9 @@
 using namespace std;
 
 int get_change(int money) {
-	int coins = 0;
-	vector<int> coinArr;
+	int coins = 0; // Number of our coins 
+	vector<int> coinArr; // Array to display coins we gave in change
+
 	while (money > 0) {
 		if (money >= 10) {
 			money -= 10;
