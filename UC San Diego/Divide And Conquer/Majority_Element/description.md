@@ -2,7 +2,8 @@
 
 You are given an array representing votes in an election. Each element in the array represents a vote for a candidate, and your task is to determine if there is a majority candidate, i.e., a candidate who received more than half of the votes.
 
-The program takes the size of the array `n` as input, where `n` is the number of votes. It then takes the actual votes in the form of an array `a`. The goal is to find whether there is a majority candidate using two different approaches.
+The program takes the size of the array `n` as input, where `n` is the number of votes. It then takes the actual votes in the form of an array `a`. The goal is to find whether there is a majority candidate.
+If the any element in the array is repeated more than `n/2` times, return `1` otherwise `0`.
 
 ### Approach 1: Boyer-Moore Voting Algorithm
 
