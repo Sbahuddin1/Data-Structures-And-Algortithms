@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.dot": "python",
+        "vector": "cpp"
+    }
+}
