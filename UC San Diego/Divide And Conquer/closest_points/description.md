@@ -4,9 +4,11 @@
 
 The task is to find the closest pair of points in a set of points on a plane.
 
-![](img1.png)
+<img src="img1.png" alt="" width="60%">
 
-![](img2.png)
+
+<img src="img2.png" alt="" width="60%">
+
 
 **Input:**
 A list of n points on a plane.
