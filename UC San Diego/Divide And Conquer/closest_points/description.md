@@ -4,7 +4,7 @@
 
 The task is to find the closest pair of points in a set of points on a plane.
 
-<img src="img1.png" alt="" width="60%">
+<img src="img1.png" alt="" width="40%">
 
 
 <img src="img2.png" alt="" width="60%">
