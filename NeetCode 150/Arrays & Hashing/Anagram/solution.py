@@ -12,9 +12,7 @@ class Solution:
         
         
 sol = Solution()
-sol.isAnagram("racecar","carrace")  
-
-
+sol.isAnagram("racecar","carrace")
 
 #Solution 2 --------------O(n)----------------
 
